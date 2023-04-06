@@ -1,0 +1,13 @@
+import React from 'react';
+
+function About() {
+  return (
+    <div>
+      <h1>About</h1>
+      <p>This is my website.</p>
+      <p> <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Impedit necessitatibus ex recusandae culpa inventore provident autem fugiat velit voluptatibus, aliquid eius quaerat mollitia incidunt. Voluptates nisi nobis ut perspiciatis beatae nemo ex laboriosam accusantium consequatur? Temporibus veritatis deserunt, asperiores reiciendis culpa hic illum recusandae laudantium officiis ab laborum voluptatum quidem pariatur ducimus voluptates maxime similique, atque autem commodi? Numquam possimus beatae, quibusdam cum ducimus, sequi eveniet maxime modi sunt sapiente, molestiae est tenetur quia inventore quos pariatur dolor accusantium officiis! Dolores, dolor reiciendis modi accusantium inventore saepe fugit quas nobis distinctio adipisci aut, impedit reprehenderit iusto ducimus, praesentium quasi porro sequi est blanditiis provident nesciunt obcaecati qui. Necessitatibus voluptatem distinctio officiis voluptatibus eveniet voluptate? Laborum dignissimos fuga reiciendis ex modi facere eum magnam tempore voluptatibus dolorem. Esse doloremque reiciendis error, cupiditate vitae sed dignissimos doloribus accusamus. Perferendis dolorum commodi, hic ipsa eum magnam laudantium et provident quia dolor tempora perspiciatis? Nisi reiciendis ab repellendus magni eum deserunt molestias corrupti officiis natus dolorem enim recusandae esse incidunt porro ducimus, optio fuga rerum possimus veritatis ad minus voluptates! Veniam, distinctio! Nisi odio doloremque harum suscipit dolorum debitis eius exercitationem blanditiis! Est assumenda corporis dolor quos eaque porro magni harum quo eligendi omnis, repudiandae, iste earum sunt at corrupti accusamus exercitationem deserunt perspiciatis. Esse neque quibusdam illo quisquam dolor! Tempore aut iste minima in quam repudiandae magnam temporibus natus ratione. Neque sequi obcaecati fuga minima ullam. Dignissimos voluptatem provident corporis id suscipit expedita illo eaque reprehenderit. Accusantium necessitatibus quidem fuga, facilis hic commodi dicta doloribus vero, ipsam reiciendis praesentium dolorem velit ipsum consectetur alias autem obcaecati vitae voluptates quae dolores, unde optio corrupti ipsa? Perspiciatis consequuntur possimus quas nostrum, eius at ex totam voluptatem quo dolor omnis corrupti hic quaerat obcaecati deserunt recusandae provident quidem animi quos earum? Totam dolorem facilis veritatis blanditiis?</p>      </p>
+    </div>
+  );
+}
+
+export default About;
